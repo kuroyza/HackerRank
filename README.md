@@ -1,5 +1,7 @@
 # HackerRank
-I'll share with you guys all my HackerRank Challenge Solutions.
+Here Are all my HackerRank Challenge Solutions.
+please if you've found a better solution share it with us.
 
 # Current Content
 ## ➤ SQL Solution
+### A - Easy Level
