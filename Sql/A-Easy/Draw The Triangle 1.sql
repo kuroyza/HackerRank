@@ -1,4 +1,4 @@
---@Author Showmza
+--@Author Kuroyza
 --METHOD 1
 DECLARE @strs_nm INT = 20;
 WHILE @strs_nm > 0

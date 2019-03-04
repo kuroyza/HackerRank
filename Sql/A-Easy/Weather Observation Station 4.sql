@@ -1,2 +1,2 @@
---@Author Showmza
+--@Author Kuroyza
 SELECT COUNT(City) - COUNT(DISTINCT City) FROM Station;

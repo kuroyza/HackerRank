@@ -1,2 +1,2 @@
---@Author Showmza
+--@Author Kuroyza
 SELECT * FROM City;

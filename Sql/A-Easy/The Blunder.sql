@@ -1,4 +1,4 @@
---@Author Showmza
+--@Author Kuroyza
 SELECT CEILING(
 	AVG(
 		CAST(salary AS DECIMAL))

@@ -1,4 +1,4 @@
---@Author Showmza
+--@Author Kuroyza
 SELECT 
 CASE
     WHEN A = B AND B = C THEN "Equilateral"

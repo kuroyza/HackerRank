@@ -1,2 +1,2 @@
---@Author Showmza
+--@Author Kuroyza
 SELECT Name FROM City WHERE CountryCode = 'JPN';

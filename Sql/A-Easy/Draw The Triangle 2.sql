@@ -1,3 +1,3 @@
---@Author Showmza
+--@Author Kuroyza
 SELECT TOP 20 REPLICATE('*',ROW_NUMBER() OVER (ORDER BY ID)) FROM SYS.SYSOBJECTS;
 
