@@ -1,10 +1,10 @@
 # ✴ HackerRank
 Here Are all my HackerRank Challenge Solutions, please if you've found a better solution share it with us.
 
-# Folder Content
+## Content :
 
-## Ⅰ - SQL Solution
+## Ⅰ - SQL Solution(MS SQL)
 
-### A - Easy Level
-### B - Medium Level
+#### A - Easy Level
+#### B - Medium Level
 
