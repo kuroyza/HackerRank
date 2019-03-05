@@ -1,4 +1,8 @@
---@Author Kuroyza
+--  Author      : Kuroyza
+--  Github      : github.com/Kuroyza
+--  HackerRank  : hackerrank.com/Kuroyza
+--  Instagram   : instagram.com/Kuroyza
+
 /*
 Definition: The distance between two points measured along axes at right angles.
 In a plane with p1 at (x1, y1) and p2 at (x2, y2), it is |x1 - x2| + |y1 - y2|. 

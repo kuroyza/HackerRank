@@ -1,4 +1,8 @@
---@Author Kuroyza
+--  Author      : Kuroyza
+--  Github      : github.com/Kuroyza
+--  HackerRank  : hackerrank.com/Kuroyza
+--  Instagram   : instagram.com/Kuroyza
+
 SELECT 
 CASE
     WHEN A = B AND B = C THEN "Equilateral"
